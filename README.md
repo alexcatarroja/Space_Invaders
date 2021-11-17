@@ -72,7 +72,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project was a enjoyable way to solidify skills in python, to include: functions, algorithms and data structures
+This project was an enjoyable way to solidify skills in python, to include: functions, algorithms and data structures
+
+![2021-11-17 (18) 1867](https://user-images.githubusercontent.com/91690236/142253153-54768dce-6b95-4268-b62b-7e56e14319e5.png)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description` -->
     
